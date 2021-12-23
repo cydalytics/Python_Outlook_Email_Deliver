@@ -15,6 +15,6 @@ Linkedin:
 This project is to use Python to send the Outlook email easily.
 
 ## Project Details
-To check the tutorial article, please click please click [here](https://towardsdatascience.com/use-python-to-automate-the-powerpoint-update-4a385acf1243?sk=13bfc8fa3dbbe98e94784de4e42ca245).
+To check the tutorial article, please click please click [here](https://medium.com/mlearning-ai/use-python-to-send-outlook-emails-d673ce9e33e4?sk=744686c421fa3cc21526f9486b19b512).
 
-[![alt text](https://cdn-images-1.medium.com/max/800/1*szCGjW1NnsD-EiIf0tcRxA.png)](https://towardsdatascience.com/use-python-to-automate-the-powerpoint-update-4a385acf1243?sk=13bfc8fa3dbbe98e94784de4e42ca245)
+[![alt text](https://cdn-images-1.medium.com/max/800/1*szCGjW1NnsD-EiIf0tcRxA.png)](https://medium.com/mlearning-ai/use-python-to-send-outlook-emails-d673ce9e33e4?sk=744686c421fa3cc21526f9486b19b512)
